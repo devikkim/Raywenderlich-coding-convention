@@ -787,7 +787,7 @@ let value = numbers
 
 Always use Swift's native types and expressions when available. Swift offers bridging to Objective-C so you can still use the full set of methods as needed.
 ```
-> 가능한 Swift의 기본 유형 및 표현식을 사용하세요.
+> 가능한 Swift의 기본 타입 및 표현식을 사용하세요.
 ```
 
 **Preferred**:
